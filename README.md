@@ -1,16 +1,22 @@
 # cv
 
-business card app
+a business card in a form of App, This App is for the third session in Flutter Curriculum of GoogleDSC Sohag Chapter members by _Thomas Meshail_.
+<hr/>
 
-## Getting Started
+## Objectives
 
-This project is a starting point for a Flutter application.
+* Clone from Git
+* Column and Row
+* Cross vs Main
+* Axis Aligment types
+* Circle Avatar
+* Image.Asset vs AssetImage
+* Padding and Margin
+* Implement Custom Fonts
+* using built-in Icons
+* ListTiles and Card
 
-A few resources to get you started if this is your first Flutter project:
+## Output
+<p align=center>
+<image src="https://user-images.githubusercontent.com/50797015/146384969-4afe0e8a-0f81-479d-b499-f98a408eab92.png" width=280/></p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

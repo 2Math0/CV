@@ -63,6 +63,18 @@ class Portfolio extends StatelessWidget {
       // TODO 20: Do the Card again but with email icon and your email in Text() widget
       // Remember Don't forget the quotes ""
       // TODO 21: Grab a Cub full of Pepsi and appreciate yourself - we are Done!
+      // You can add Divider() and SizedBox() as you wish
+      // here is an example of it :
+
+      /*
+       SizedBox(
+        width: 120, // in width property, you actually defining the width of the line(Divider), as Divider inherit the Properties of its parent.
+        // means that the Divider fill the available space you give to it.
+        child: Divider(
+          color: Colors.white54,
+        ),
+       */
+
         );
   }
 }
